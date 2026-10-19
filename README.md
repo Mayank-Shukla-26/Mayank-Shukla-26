@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="G_Banner.png" width="100%" alt="Mayank Shukla - SAP ABAP Cloud Developer">
+</div>
 <div align="center">
 
 # 👋 Hey, I'm Mayank Shukla
