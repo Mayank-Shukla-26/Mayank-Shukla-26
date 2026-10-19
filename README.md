@@ -98,7 +98,7 @@ A full-stack travel marketplace where users can create property listings, leave 
 - Issued: September 2026
 - Issuer: SAP
 
-[![View SAP Certification](https://img.shields.io/badge/OPEN_LIVE_DEMO-46A758?style=for-the-badge&logo=render&logoColor=white)](https://credly.com/badges/e6cbd767-9399-441e-b7ab-35367d21e5a4)
+[![View SAP Certification](https://img.shields.io/badge/VIEW_SAP_CERTIFICATION-0A6ED1?style=for-the-badge&logo=sap&logoColor=white)](https://credly.com/badges/e6cbd767-9399-441e-b7ab-35367d21e5a4)
 
 ## 📊 GitHub Stats
 
