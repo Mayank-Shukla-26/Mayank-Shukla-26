@@ -82,6 +82,7 @@
 
 **A travel marketplace where users can list properties, leave reviews, and make bookings.**
 
+
 - 🏡 Built listing management with CRUD operations and authorization.
 - 🔐 Added login and session management using Passport.js.
 - 📅 Implemented booking flows with date-conflict detection and dynamic pricing.
