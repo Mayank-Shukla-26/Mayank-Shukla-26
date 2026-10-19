@@ -78,6 +78,8 @@
 
 ---
 
+<div align="center">
+
 ### 🌍 WanderLust — Full-Stack Travel Marketplace
 
 **A travel marketplace where users can list properties, leave reviews, and make bookings.**
@@ -89,6 +91,8 @@
 - ☁️ Integrated Cloudinary for image uploads.
 
 **Tech Stack:** Node.js · Express.js · MongoDB · EJS · Passport.js · Cloudinary
+
+<div align="center">
 
 [![View Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mayank-Shukla-26?tab=repositories)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-46A758?style=for-the-badge&logo=render&logoColor=white)](https://major-project-hk14.onrender.com/listings)
