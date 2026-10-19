@@ -53,34 +53,47 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+
 ## 🚀 Featured Projects
+
+<div align="center">
 
 ### 📦 SAP Courier & Parcel Delivery Tracking System
 
-A SAP ABAP application for parcel booking, status tracking, ALV reporting, and delivery receipt generation.
+**A SAP ABAP application for parcel booking, tracking, reporting, and receipt generation.**
 
-- Created four custom ABAP Dictionary tables with primary and foreign keys.
-- Developed Module Pool screens using PBO/PAI.
-- Implemented parcel tracking reports with ALV.
-- Added status-change audit logging.
-- Generated courier receipts using Smart Forms.
+</div>
 
-**Tech:** SAP ABAP, SAP GUI, Eclipse ADT, DDIC, Module Pool, ALV, Smart Forms.
+- 🗄️ Designed four custom tables using ABAP Dictionary.
+- 🖥️ Built Module Pool screens for parcel booking and status updates.
+- 📊 Created ALV reports with parcel filters.
+- 📝 Implemented status-change audit logging.
+- 🧾 Generated courier receipts using Smart Forms.
 
-[![View Source Code](https://img.shields.io/badge/View_Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mayank-Shukla-26/SAP-Courier-Parcel-Tracking-System)
+**Tech Stack:** SAP ABAP · SAP GUI · Eclipse ADT · DDIC · Module Pool · ALV · Smart Forms
+
+<div align="center">
+
+[![View SAP Project](https://img.shields.io/badge/Explore_SAP_Project-181717?style=for-the-badge&logo=github)](https://github.com/Mayank-Shukla-26/SAP-Courier-Parcel-Tracking-System)
+
+---
 
 ### 🌍 WanderLust — Full-Stack Travel Marketplace
 
-A full-stack marketplace for property listings, reviews, and bookings.
+**A travel marketplace where users can list properties, leave reviews, and make bookings.**
 
-- Implemented listing creation, editing, deletion, and authorization.
-- Added user authentication and session management with Passport.js.
-- Built booking flows with date-conflict detection and dynamic pricing.
-- Integrated Cloudinary for image uploads.
+- 🏡 Built listing management with CRUD operations and authorization.
+- 🔐 Added login and session management using Passport.js.
+- 📅 Implemented booking flows with date-conflict detection and dynamic pricing.
+- ☁️ Integrated Cloudinary for image uploads.
 
-**Tech:** Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary.
+**Tech Stack:** Node.js · Express.js · MongoDB · EJS · Passport.js · Cloudinary
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00A86B?style=for-the-badge&logo=render&logoColor=white)](https://major-project-hk14.onrender.com/listings)
+[![View Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/Mayank-Shukla-26?tab=repositories)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-46A758?style=for-the-badge&logo=render&logoColor=white)](https://major-project-hk14.onrender.com/listings)
+
+</div>
+
 
 ## 🏆 Certification
 
